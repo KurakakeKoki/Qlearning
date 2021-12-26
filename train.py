@@ -195,7 +195,7 @@ oppenent = RandomAgent()
 
 
 env = TicTacToeEnv(oppenent)
-num_iter = 10000000
+num_iter = 100
 Q, stats = qLearning(env, num_iter)
 print(Q[0])
 
