@@ -1,6 +1,6 @@
 # マルバツゲームの強化学習
 
-参考
+参考にしたサイト
 
 https://www.geeksforgeeks.org/q-learning-in-python/
 
